@@ -49,5 +49,5 @@
         <img src="https://img.shields.io/website-up-down-green-red/http/lersp.github.io/mysite.svg">
     </a>
 
-![Snake animation](https://github.com/lersp/lersp/blob/output/github-contribution-grid-snake.svg)
+
 </div>
