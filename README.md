@@ -39,22 +39,15 @@
     <a href="https://account.xbox.com/Profile?Gamertag=YakkoIT" Alt="GameTag=YakkoIT" target="_blank">
         <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
     </a>
-    <a href="https://www.paypal.com/donate/?business=U5TS24LXDGFFW&no_recurring=0&item_name=Ajude+a+crescer+a+comunidade+e+assim+desenvolver+materiais+bem+legais+para+todos.&currency_code=BRL" Alt="GameTag=YakkoIT" target="_blank">
+    <a href="https://www.paypal.com/donate/?business=U5TS24LXDGFFW&no_recurring=0&item_name=Ajude+a+crescer+a+comunidade+e+assim+desenvolver+materiais+bem+legais+para+todos.&currency_code=BRL" target="_blank">
         <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
     </a>
-    <a href="https://www.udemy.com/user/lucas-pinto-19/" Alt="GameTag=YakkoIT" target="_blank">
+    <a href="https://www.udemy.com/user/lucas-pinto-19/" target="_blank">
         <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
     </a>
-    <a href="https://lersp.github.io/mysite/" Alt="GameTag=YakkoIT" target="_blank">
+    <a href="https://lersp.github.io/mysite/" target="_blank">
         <img src="https://img.shields.io/website-up-down-green-red/http/lersp.github.io/mysite.svg">
     </a>
 
-
-    
-
-
-
-
-
-
+![Snake animation](https://github.com/lersp/lersp/blob/output/github-contribution-grid-snake.svg)
 </div>
