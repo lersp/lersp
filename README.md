@@ -6,8 +6,8 @@
 ##
 <div>
     <a href="https://beacons.ai/lucas.lersp">
-    <img height="1500em" src="https://github-readme-stats.vercel.app/api?username=lersp&show_icons=true&theme=monokai&incluede_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lersp&layout=compact&langs_count=16&theme=monokai"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lersp&show_icons=true&theme=monokai&incluede_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lersp&layout=compact&langs_count=16&theme=monokai"/>
     </a>
 </div>
 <div style="display: inline_block"><br>
