@@ -51,9 +51,4 @@ Pai da 👧🏻 Lara  <br>
     
 ![github contribution grid snake animation](https://raw.githubusercontent.com/lersp/lersp/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
-
 </div>
