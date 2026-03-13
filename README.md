@@ -45,7 +45,7 @@ Pai da 👧🏻 Lara  <br>
         <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
     </a>
     <a href="https://lersp.com.br" target="_blank">
-        <img src="https://img.shields.io/website-up-down-green-red/http/lersp.com.br/mysite.svg">
+        <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Flersp.com.br">
     </a>
     
 ![github contribution grid snake animation](https://raw.githubusercontent.com/lersp/lersp/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
