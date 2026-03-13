@@ -44,8 +44,8 @@ Pai da 👧🏻 Lara  <br>
     <a href="https://www.udemy.com/user/lucas-pinto-19/" target="_blank">
         <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
     </a>
-    <a href="https://lersp.github.io/mysite/" target="_blank">
-        <img src="https://img.shields.io/website-up-down-green-red/http/lersp.github.io/mysite.svg">
+    <a href="https://lersp.com.br" target="_blank">
+        <img src="https://img.shields.io/website-up-down-green-red/http/lersp.com.br/mysite.svg">
     </a>
     
 ![github contribution grid snake animation](https://raw.githubusercontent.com/lersp/lersp/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
